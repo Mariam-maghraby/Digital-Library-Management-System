@@ -16,6 +16,6 @@ Using the program is simple, a list of numbered options are shown to the user, h
 ## Team Members:
 Mariam Ashraf Fathi Ali
 <br>
-Laila Hamdy abdelrauof
+Laila Hamdy Abdelrauof
 <br>
 Ghada Ashraf Gomaa
